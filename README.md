@@ -1,22 +1,10 @@
----
-title: "blog_post"
-author: "Yixuan Wen"
-date: "12/7/2018"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-## As we almost finish the classes of info201, throughout this quarter info201 classes, 
-## the material which can easily to apply to a real-world case is Shiny App. 
-## Shiny app can help you to build your ideas into interactive web apps.
-## When you want to demonstrate something for your friends, co-workers, clients
-## Shiny App can help you build your ideas into easily understandable and interative charts.
-## Today, I am going to show you three tricks that will make your shiny app more interesting and interactive.
-
-
+#Three tricks that make your shiny app more intuitive
+As we almost finish the classes of info201, throughout this quarter info201 classes, 
+the material which can easily to apply to a real-world case is Shiny App. 
+Shiny app can help you to build your ideas into interactive web apps.
+When you want to demonstrate something for your friends, co-workers, clients
+Shiny App can help you build your ideas into easily understandable and interative charts.
+Today, I am going to show you three tricks that will make your shiny app more interesting and interactive.
 
 1.When you have Shiny APP and want to display different kinds of contents so you have different tabs to divide those content to make it look cleaner. But have your ever thought about how to hide a tab? The code below will give you
 the answer.
