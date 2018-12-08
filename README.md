@@ -1,4 +1,6 @@
-#Three tricks that make your shiny app more intuitive
+## Three tricks that make your shiny app more intuitive
+
+
 As we almost finish the classes of info201, throughout this quarter info201 classes, 
 the material which can easily to apply to a real-world case is Shiny App. 
 Shiny app can help you to build your ideas into interactive web apps.
